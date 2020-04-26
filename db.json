@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 11 Pro Max",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2019/09/iPhone-11-Pro-Prix-1000x600.jpg",
+      "price": 1099
+    },
+    {
+      "id": 2,
+      "name": "iPhone 11",
+      "description": "orem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search ",
+      "imageUrl": "https://images.frandroid.com/wp-content/uploads/2020/02/iphone-11-all-colors.jpg",
+      "price": 699
+    },
+    {
+      "id": 3,
+      "name": "iPhone XS Max",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the wordtypicode",
+      "imageUrl": "https://www.iphon.fr/app/uploads/2018/09/iphone-xs-finitions.jpg",
+      "price": 899
+    },
+    {
+      "id": 4,
+      "name": "iPhone X",
+      "description": "Giugiugug uo^gôugugougguo ouggougugugmugkug ugmmggigiugiuugm ugmiuggguimg mguuguoimugmugugm mguguu oiugm ug ugug MUGugmugmugmgg uoguug",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51hKehpBWML._AC_SX679_.jpg",
+      "price": 499
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 2,
+        "name": "iPhone 11",
+        "description": "orem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search ",
+        "imageUrl": "https://images.frandroid.com/wp-content/uploads/2020/02/iphone-11-all-colors.jpg",
+        "price": 699
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "iPhone XS Max",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the wordtypicode",
+        "imageUrl": "https://www.iphon.fr/app/uploads/2018/09/iphone-xs-finitions.jpg",
+        "price": 899
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "iPhone 11",
+        "description": "orem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search ",
+        "imageUrl": "https://images.frandroid.com/wp-content/uploads/2020/02/iphone-11-all-colors.jpg",
+        "price": 699
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "iPhone 11 Pro Max",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "imageUrl": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2019/09/iPhone-11-Pro-Prix-1000x600.jpg",
+        "price": 1099
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "iPhone 11",
+        "description": "orem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search ",
+        "imageUrl": "https://images.frandroid.com/wp-content/uploads/2020/02/iphone-11-all-colors.jpg",
+        "price": 699
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "iPhone XS Max",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the wordtypicode",
+        "imageUrl": "https://www.iphon.fr/app/uploads/2018/09/iphone-xs-finitions.jpg",
+        "price": 899
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "iPhone 11 Pro Max",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "imageUrl": "https://www.presse-citron.net/wordpress_prod/wp-content/uploads/2019/09/iPhone-11-Pro-Prix-1000x600.jpg",
+        "price": 1099
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "iPhone 11",
+        "description": "orem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search ",
+        "imageUrl": "https://images.frandroid.com/wp-content/uploads/2020/02/iphone-11-all-colors.jpg",
+        "price": 699
+      },
+      "id": 8
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
